@@ -22,6 +22,6 @@ Check the input string for validity.
 
 # Run the app
 1) git clone https://github.com/RuslanKhaliullin/UnpackedString.git <br/>
-2) open thw project with any IDEA you prefer <br/>
+2) open the project with any IDEA you prefer <br/>
 3) launch and enter an input as described in "Description of the task"
 
