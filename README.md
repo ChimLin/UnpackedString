@@ -1,5 +1,5 @@
 # UnpackedString
-Testing task is an oppurtunity to participate in studying 
+Testing task is an upportunity to participate in studying java course
 
 # Description of the task
 
